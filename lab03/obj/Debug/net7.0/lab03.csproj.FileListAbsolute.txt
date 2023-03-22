@@ -1,0 +1,15 @@
+C:\Users\Bogdan\Desktop\C#\lab03\lab03\obj\Debug\net7.0\lab03.csproj.AssemblyReference.cache
+C:\Users\Bogdan\Desktop\C#\lab03\lab03\obj\Debug\net7.0\lab03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bogdan\Desktop\C#\lab03\lab03\obj\Debug\net7.0\lab03.AssemblyInfoInputs.cache
+C:\Users\Bogdan\Desktop\C#\lab03\lab03\obj\Debug\net7.0\lab03.AssemblyInfo.cs
+C:\Users\Bogdan\Desktop\C#\lab03\lab03\obj\Debug\net7.0\lab03.csproj.CoreCompileInputs.cache
+C:\Users\Bogdan\Desktop\C#\lab03\lab03\bin\Debug\net7.0\lab03.exe
+C:\Users\Bogdan\Desktop\C#\lab03\lab03\bin\Debug\net7.0\lab03.deps.json
+C:\Users\Bogdan\Desktop\C#\lab03\lab03\bin\Debug\net7.0\lab03.runtimeconfig.json
+C:\Users\Bogdan\Desktop\C#\lab03\lab03\bin\Debug\net7.0\lab03.dll
+C:\Users\Bogdan\Desktop\C#\lab03\lab03\bin\Debug\net7.0\lab03.pdb
+C:\Users\Bogdan\Desktop\C#\lab03\lab03\obj\Debug\net7.0\lab03.dll
+C:\Users\Bogdan\Desktop\C#\lab03\lab03\obj\Debug\net7.0\refint\lab03.dll
+C:\Users\Bogdan\Desktop\C#\lab03\lab03\obj\Debug\net7.0\lab03.pdb
+C:\Users\Bogdan\Desktop\C#\lab03\lab03\obj\Debug\net7.0\lab03.genruntimeconfig.cache
+C:\Users\Bogdan\Desktop\C#\lab03\lab03\obj\Debug\net7.0\ref\lab03.dll
